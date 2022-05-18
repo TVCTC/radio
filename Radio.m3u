@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 status="on",Radio 101 Croatia
+#EXTINF:-1 status="on" logo="https://upload.wikimedia.org/wikipedia/hr/a/a7/Radio101.jpg",Radio 101 Croatia
 http://live.radio101.hr:9531/
 #EXTINF:0,Top Radio
 https://c5.hostingcentar.com/streams/topradio
