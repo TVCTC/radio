@@ -1,7 +1,7 @@
 #EXTM3U
 # short link: https://tinyurl.com/rdiom3u
 # long link: https://github.com/TVCTC/radio/raw/main/Radio.m3u
-#EXTVLCOPT:input-slave=https://upload.wikimedia.org/wikipedia/hr/a/a7/Radio101.jpg
+#EXTVLCOPT::run-time=15
 #EXTINF:-1 status="on" logo="https://upload.wikimedia.org/wikipedia/hr/a/a7/Radio101.jpg",Radio 101 Croatia
 http://live.radio101.hr:9531/
 #EXTINF:0,Top Radio
