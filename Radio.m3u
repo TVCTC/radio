@@ -3,13 +3,13 @@
 # short link: https://tinyurl.com/rdiom3u
 # long link: https://github.com/TVCTC/radio/raw/main/Radio.m3u
 #
-#EXTINF:0,Radio 101 Croatia
+#EXTINF:-1,Radio 101 Croatia
 http://live.radio101.hr:9531/
-#EXTINF:0,Top Radio
+#EXTINF:-1,Top Radio
 https://c5.hostingcentar.com/streams/topradio
-#EXTINF:0,Yammat FM
+#EXTINF:-1,Yammat FM
 https://stream.yammat.fm/radio/8000/yammat.mp3
-#EXTINF:0,ENTER ZAGREB
+#EXTINF:-1,ENTER ZAGREB
 http://live.enterzagreb.hr:8023/
 #EXTINF:0,Antena Zagreb
 http://live.antenazagreb.hr:8000/
