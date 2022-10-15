@@ -16,7 +16,7 @@ http://live.goldfm.hr:8068/
 #EXTINF:-1,narodni
 http://live.narodni.hr:8059/
 #EXTINF:-1,Radio Zaprešić ZFM
-https://ec2s.crolive.com.hr:7010/stream
+http://ec2s.crolive.com.hr:7010/stream
 #EXTINF:-1,RadioKAJ
 http://144.76.172.23:7051/
 #EXTINF:-1,Radio Alfa
