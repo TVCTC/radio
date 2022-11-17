@@ -13,8 +13,9 @@ http://live.antenazagreb.hr:8000/
 https://stream.otvoreni.hr/otvoreni
 #EXTINF:-1,GOLD FM
 http://live.goldfm.hr:8068/
-#EXTINF:-1,narodni
-http://live.narodni.hr:8059/
+#https://br.hr
+#EXTINF:-1,Bravo
+http://c5.hostingcentar.com:8059/
 #EXTINF:-1,Radio Zaprešić ZFM
 http://ec2s.crolive.com.hr:7010/stream
 #EXTINF:-1,RadioKAJ
