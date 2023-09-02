@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1,Radio 101
 http://live.radio101.hr:9531/
+#EXTINF:-1,Radio Tvornica
+https://c8.hostingcentar.com/streams/radiotvornica
 #EXTINF:-1,Top Radio
 https://c5.hostingcentar.com/streams/topradio
 #EXTINF:-1,Yammat FM
@@ -9,6 +11,8 @@ https://stream.yammat.fm/radio/8000/yammat.mp3
 http://live.enterzagreb.hr:8023/
 #EXTINF:-1,Antena Zagreb
 http://live.antenazagreb.hr:8000/
+#EXTINF:-1,Ultra Split
+http://c5.hostingcentar.com:8061/stream
 #EXTINF:-1,Otvoreni
 https://stream.otvoreni.hr/otvoreni
 #EXTINF:-1,HAPPY
@@ -30,8 +34,24 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/PROGRAM1AAC.aac
 http://playerservices.streamtheworld.com/api/livestream-redirect/PROGRAM2AAC.aac
 #EXTINF:-1,Hrvatski Radio 3
 http://playerservices.streamtheworld.com/api/livestream-redirect/PROGRAM3AAC.aac
+#EXTINF:-1,Radio Dubrovnik
+http://playerservices.streamtheworld.com/api/livestream-redirect/DUBROVNIKAAC.aac
+#EXTINF:-1,Radio Knin
+http://playerservices.streamtheworld.com/api/livestream-redirect/KNINAAC.aac
+#EXTINF:-1,Radio Osijek
+http://playerservices.streamtheworld.com/api/livestream-redirect/OSIJEKAAC.aac
+#EXTINF:-1,Radio Pula
+http://playerservices.streamtheworld.com/api/livestream-redirect/PULAAAC.aac
+#EXTINF:-1,Radio Rijeka
+http://playerservices.streamtheworld.com/api/livestream-redirect/RIJEKAAAC.aac
 #EXTINF:-1,Radio Sljeme
 http://playerservices.streamtheworld.com/api/livestream-redirect/SLJEMEAAC.aac
+#EXTINF:-1,Radio Split
+http://playerservices.streamtheworld.com/api/livestream-redirect/SPLITAAC.aac
+#EXTINF:-1,Radio Zadar
+http://playerservices.streamtheworld.com/api/livestream-redirect/ZADARAAC.aac
+#EXTINF:-1,Glas Hrvatske
+http://playerservices.streamtheworld.com/api/livestream-redirect/VOICEOFCROATIAAAC.aac
 #EXTINF:-1,Radio Samobor
 http://185.150.235.162:80/
 #EXTINF:-1,Banovina
@@ -44,21 +64,9 @@ http://c5.hostingcentar.com:8096/
 http://ec2s.crolive.com.hr:2260/stream
 #EXTINF:-1,LAGANINI FM POZEGA
 http://194.145.208.251:8008/
-#EXTINF:-1,Radio Osijek
-http://playerservices.streamtheworld.com/api/livestream-redirect/OSIJEKAAC.aac
-#EXTINF:-1,Radio Rijeka
-http://playerservices.streamtheworld.com/api/livestream-redirect/RIJEKAAAC.aac
 #EXTINF:-1,Radio Kaštel
 https://kastel2020.radioca.st/stream
-#EXTINF:-1,Radio Pula
-http://playerservices.streamtheworld.com/api/livestream-redirect/PULAAAC.aac
-#EXTINF:-1,Radio Split
-http://playerservices.streamtheworld.com/api/livestream-redirect/SPLITAAC.aac
 #EXTINF:-1,Antena Zadar
 http://178.218.166.90:9000/
-#EXTINF:-1,Radio Zadar
-http://playerservices.streamtheworld.com/api/livestream-redirect/ZADARAAC.aac
 #EXTINF:-1,Radio Dalmacija
 http://shoutcast.pondi.hr:8000/
-#EXTINF:-1,Radio Dubrovnik
-http://playerservices.streamtheworld.com/api/livestream-redirect/DUBROVNIKAAC.aac
