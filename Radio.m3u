@@ -1,34 +1,34 @@
 #EXTM3U
 #EXTINF:-1,Radio 101
 http://live.radio101.hr:9531/
-#EXTINF:-1,Radio 101 (backup stream)
-#https://c2.hostingcentar.com/streams/radio101/
-#EXTINF:-1,Radio 101 Rock
-#https://c2.hostingcentar.com/streams/radio101rock/
+##EXTINF:-1,Radio 101 (backup stream)
+##https://c2.hostingcentar.com/streams/radio101/
+##EXTINF:-1,Radio 101 Rock
+##https://c2.hostingcentar.com/streams/radio101rock/
 #EXTINF:-1,Top Radio
 https://c5.hostingcentar.com/streams/topradio
 #EXTINF:-1,Yammat FM
 https://stream.yammat.fm/radio/8000/yammat.mp3
-#EXTINF:-1,ENTER ZAGREB
+#EXTINF:-1,ENTER ZG
 http://live.enterzagreb.hr:8023/
 #EXTINF:-1,Antena Zagreb
 http://live.antenazagreb.hr:8000/
 #EXTINF:-1,Otvoreni
 https://stream.otvoreni.hr/otvoreni
-#EXTINF:-1,GOLD FM
+#EXTINF:-1,HAPPY
 http://live.goldfm.hr:8068/
 #https://br.hr
-#EXTINF:-1,Bravo
+#EXTINF:-1,bravo
 http://c5.hostingcentar.com:8059/
 #EXTINF:-1,Radio Zaprešić ZFM
 http://ec2s.crolive.com.hr:7010/stream
-#EXTINF:-1,RadioKAJ
-http://144.76.172.23:7051/
+##EXTINF:-1,RadioKAJ
+##http://144.76.172.23:7051/
 #EXTINF:-1,Radio Alfa
 http://ec2s.crolive.com.hr:2530/stream
 #EXTINF:-1,Zabavni Radio
 http://genf196.server4you.de:8585/
-#EXTINF:-1,Radio Student 100.5 FM Zagreb Croatia
+#EXTINF:-1,Radio Student
 http://161.53.122.184:8000/AAC128.aac
 #EXTINF:-1,Hrvatski Radio 1
 http://playerservices.streamtheworld.com/api/livestream-redirect/PROGRAM1AAC.aac
@@ -40,7 +40,7 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/PROGRAM3AAC.aac
 http://playerservices.streamtheworld.com/api/livestream-redirect/SLJEMEAAC.aac
 #EXTINF:-1,Radio Samobor
 http://185.150.235.162:80/
-#EXTINF:-1,Radio Banovina Uživo
+#EXTINF:-1,Banovina
 http://stream1.radio-banovina.hr:9998/
 #EXTINF:-1,Petrinjski Radio
 https://s8.iqstreaming.com:2000/stream/petrinjski_radio
@@ -52,20 +52,20 @@ http://ec2s.crolive.com.hr:2260/stream
 http://194.145.208.251:8008/
 #EXTINF:-1,Radio Osijek
 http://playerservices.streamtheworld.com/api/livestream-redirect/OSIJEKAAC.aac
-#EXTINF:-1,Radio Gorski Kotar
-http://live.rgk.hr:9500/
+##EXTINF:-1,Radio Gorski Kotar
+##http://live.rgk.hr:9500/
 #EXTINF:-1,Radio Rijeka
 http://playerservices.streamtheworld.com/api/livestream-redirect/RIJEKAAAC.aac
 #EXTINF:-1,Radio Kaštel
 https://kastel2020.radioca.st/stream
-#EXTINF:-1,Pomorski Radio Bakar
-https://matrix-server.hr:8012/
-#EXTINF:-1,Radio OK
-http://streamer2.streamsink.com:8000/stream
+##EXTINF:-1,Pomorski Radio Bakar
+##https://matrix-server.hr:8012/
+##EXTINF:-1,Radio OK
+##http://streamer2.streamsink.com:8000/stream
 #EXTINF:-1,Radio Pula
 http://playerservices.streamtheworld.com/api/livestream-redirect/PULAAAC.aac
-#EXTINF:-1,Radio Šibenik
-https://radiosibenik.radioca.st/
+##EXTINF:-1,Radio Šibenik
+##https://radiosibenik.radioca.st/
 #EXTINF:-1,Radio Split
 http://playerservices.streamtheworld.com/api/livestream-redirect/SPLITAAC.aac
 #EXTINF:-1,Antena Zadar
@@ -74,9 +74,9 @@ http://178.218.166.90:9000/
 http://playerservices.streamtheworld.com/api/livestream-redirect/ZADARAAC.aac
 #EXTINF:-1,Radio Dalmacija
 http://shoutcast.pondi.hr:8000/
-#EXTINF:-1,Gradski Radio Trogir
-http://85.25.135.86:8016/
+##EXTINF:-1,Gradski Radio Trogir
+##http://85.25.135.86:8016/
 #EXTINF:-1,Radio Dubrovnik
 http://playerservices.streamtheworld.com/api/livestream-redirect/DUBROVNIKAAC.aac
-#EXTINF:-1,Radio BBR
-http://europa.shoutca.st:8285/
+##EXTINF:-1,Radio BBR
+##http://europa.shoutca.st:8285/
