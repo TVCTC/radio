@@ -14,23 +14,19 @@ http://live.antenazagreb.hr:8000/
 https://stream.yammat.fm/radio/8000/yammat.mp3
 #EXTINF:-1,ENTER ZG
 http://live.enterzagreb.hr:8023/
+#EXTINF:-1,Ultra Split
+http://c5.hostingcentar.com:8061/stream
 #EXTINF:-1,Radio Deejay
 http://c2.hostingcentar.com:7002/
 #https://br.hr
 #EXTINF:-1,bravo
 http://c5.hostingcentar.com:8059/
-#EXTINF:-1,Zabavni Radio
-http://genf196.server4you.de:8585/
+#EXTINF:-1,HAPPY
+http://live.goldfm.hr:8068/
 #EXTINF:-1,Radio Tvornica
 https://c8.hostingcentar.com/streams/radiotvornica
 #EXTINF:-1,Radio Student
 http://161.53.122.184:8000/AAC128.aac
-#EXTINF:-1,Radio Zaprešić ZFM
-http://ec2s.crolive.com.hr:7010/stream
-#EXTINF:-1,HAPPY
-http://live.goldfm.hr:8068/
-#EXTINF:-1,Radio Alfa
-http://ec2s.crolive.com.hr:2530/stream
 #EXTINF:-1,Hrvatski Radio 1
 http://playerservices.streamtheworld.com/api/livestream-redirect/PROGRAM1AAC.aac
 #EXTINF:-1,Hrvatski Radio 2
@@ -55,28 +51,32 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/SPLITAAC.aac
 http://playerservices.streamtheworld.com/api/livestream-redirect/ZADARAAC.aac
 #EXTINF:-1,Glas Hrvatske
 http://playerservices.streamtheworld.com/api/livestream-redirect/VOICEOFCROATIAAAC.aac
-#EXTINF:-1,Antena Zadar
-http://178.218.166.90:9000/
-#EXTINF:-1,Radio Dalmacija
-http://shoutcast.pondi.hr:8000/
-#EXTINF:-1,Ultra Split
-http://c5.hostingcentar.com:8061/stream
-#EXTINF:-1,Radio Pag
-http://radio.novosti.hr:9300/
-#EXTINF:-1,Radio BnM
-http://c2.hostingcentar.com:8011/
-#EXTINF:-1,Radio Gorski Kotar
-http://c2.hostingcentar.com:9500/
-#EXTINF:-1,Obiteljski Radio Ivanić
-http://s8.iqstreaming.com:8080/
+#EXTINF:-1,Radio Zaprešić ZFM
+http://ec2s.crolive.com.hr:7010/stream
+#EXTINF:-1,Zabavni Radio
+http://genf196.server4you.de:8585/
+#EXTINF:-1,Radio Alfa
+http://ec2s.crolive.com.hr:2530/stream
 #EXTINF:-1,Radio Samobor
 http://185.150.235.162:80/
+#EXTINF:-1,Obiteljski Radio Ivanić
+http://s8.iqstreaming.com:8080/
 #EXTINF:-1,Banovina
 http://stream1.radio-banovina.hr:9998/
 #EXTINF:-1,Petrinjski Radio
 https://s8.iqstreaming.com:2000/stream/petrinjski_radio
 #EXTINF:-1,Radio Sisak
 http://c5.hostingcentar.com:8096/
+#EXTINF:-1,Radio Gorski kotar
+http://c2.hostingcentar.com:9500/
+#EXTINF:-1,Antena Zadar
+http://178.218.166.90:9000/
+#EXTINF:-1,Radio Dalmacija
+http://shoutcast.pondi.hr:8000/
+#EXTINF:-1,Radio BnM
+http://c2.hostingcentar.com:8011/
+#EXTINF:-1,Radio Pag
+http://radio.novosti.hr:9300/
 #EXTINF:-1,Radio Vallis Aurea
 http://ec2s.crolive.com.hr:2260/stream
 #EXTINF:-1,LAGANINI FM POZEGA
