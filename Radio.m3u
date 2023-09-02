@@ -51,6 +51,10 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/SPLITAAC.aac
 http://playerservices.streamtheworld.com/api/livestream-redirect/ZADARAAC.aac
 #EXTINF:-1,Glas Hrvatske
 http://playerservices.streamtheworld.com/api/livestream-redirect/VOICEOFCROATIAAAC.aac
+#EXTINF:-1,HR Klasična glazba
+http://playerservices.streamtheworld.com/api/livestream-redirect/HR_CLASSICSAAC.aac
+#EXTINF:-1,HR Pop glazba
+http://playerservices.streamtheworld.com/api/livestream-redirect/HR_POPAAC.aac
 #EXTINF:-1,Radio Zaprešić ZFM
 http://ec2s.crolive.com.hr:7010/stream
 #EXTINF:-1,Zabavni Radio
