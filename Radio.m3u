@@ -69,6 +69,8 @@ https://s8.iqstreaming.com:2000/stream/petrinjski_radio
 http://c5.hostingcentar.com:8096/
 #EXTINF:-1,Radio Gorski kotar
 http://c2.hostingcentar.com:9500/
+#EXTINF:-1,Radio Kaštel
+https://kastel2020.radioca.st/stream
 #EXTINF:-1,Antena Zadar
 http://178.218.166.90:9000/
 #EXTINF:-1,Radio BnM
@@ -81,8 +83,6 @@ http://shoutcast.pondi.hr:8000/
 http://ec2s.crolive.com.hr:2260/stream
 #EXTINF:-1,LAGANINI FM POZEGA
 http://194.145.208.251:8008/
-#EXTINF:-1,Radio Kaštel
-https://kastel2020.radioca.st/stream
 #EXTINF:-1,CMC TV
 https://stream.cmctv.hr:49998/cmc/live.m3u8
 #EXTINF:-1,Klape i tambure TV
