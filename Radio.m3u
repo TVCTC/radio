@@ -2,9 +2,9 @@
 #EXTINF:-1,Radio 101
 http://live.radio101.hr:9531/
 #EXTINF:-1,Radio 101 (backup stream)
-https://c2.hostingcentar.com/streams/radio101/
+#https://c2.hostingcentar.com/streams/radio101/
 #EXTINF:-1,Radio 101 Rock
-https://c2.hostingcentar.com/streams/radio101rock/
+#https://c2.hostingcentar.com/streams/radio101rock/
 #EXTINF:-1,Top Radio
 https://c5.hostingcentar.com/streams/topradio
 #EXTINF:-1,Yammat FM
