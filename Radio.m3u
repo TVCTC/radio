@@ -91,3 +91,5 @@ http://194.145.208.251:8008/
 https://stream.cmctv.hr:49998/cmc/live.m3u8
 #EXTINF:-1,Klape i tambure TV
 https://stream.cmctv.hr:49998/kit/live.m3u8
+#EXTINF:-1,Radio Televizija Banovina
+https://pool.alter-media.hr:1936/live/myStream/playlist.m3u8
