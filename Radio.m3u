@@ -73,6 +73,8 @@ https://s8.iqstreaming.com:2000/stream/petrinjski_radio
 http://c5.hostingcentar.com:8096/
 #EXTINF:-1,Radio Gorski kotar
 http://c2.hostingcentar.com:9500/
+#EXTINF:-1,Radio Gospić
+https://sonic.brziserver.com/8004/stream
 #EXTINF:-1,Radio Kaštel
 https://kastel2020.radioca.st/stream
 #EXTINF:-1,Antena Zadar
