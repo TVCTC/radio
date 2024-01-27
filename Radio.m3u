@@ -55,6 +55,9 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/VOICEOFCROATIAA
 http://playerservices.streamtheworld.com/api/livestream-redirect/HR_CLASSICSAAC.aac
 #EXTINF:-1,HR Pop glazba
 http://playerservices.streamtheworld.com/api/livestream-redirect/HR_POPAAC.aac
+#EXTINF:-1,Prigorski Radio
+https://s8.iqstreaming.com:8048/stream
+#https://prigorskiradio.hr/program/
 #EXTINF:-1,Radio Zaprešić ZFM
 http://ec2s.crolive.com.hr:7010/stream
 #EXTINF:-1,Zabavni Radio
