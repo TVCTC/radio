@@ -12,7 +12,7 @@
     <googleplay:image href="https://apihrt.akamaized.net/media/a9/8a/image00003-20211204200408.webp" />
     <item>
       <title>Andromeda 30.01.2024.</title>
-      <enclosure url="https://api.hrt.hr/media/29/20/20240130-andromeda-34924584-20240131075058.mp3" type="audio/mpeg" />
+      <enclosure url="https://api.hrt.hr/media/29/20/20240130-andromeda-34924584-20240131075058.mp3" type="audio/mpeg" length="85928296" />
       <link>https://radio.hrt.hr/slusaonica/andromeda?podcast=202312191047</link>
       <guid isPermaLink="false">4rd4zjtnf2g57vvqffm8h58zca</guid>
       <pubDate>Tue, 30 Jan 2024 19:00:00 +0000</pubDate>
