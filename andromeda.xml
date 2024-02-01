@@ -9,7 +9,7 @@
     <atom:link href="https://github.com/TVCTC/radio/raw/main/andromeda.xml" rel="self" type="application/rss+xml" />
     <googleplay:author>tvctc</googleplay:author>
     <googleplay:email>tomislav.vucetic@gmail.com</googleplay:email>
-    <googleplay:image href="https://firebasestorage.googleapis.com/v0/b/rss-feeds-by-tvctc.appspot.com/o/images%2FAndromeda.jpg" />
+    <googleplay:image href="https://firebasestorage.googleapis.com/v0/b/rss-feeds-by-tvctc.appspot.com/o/images%2FAndromeda.jpg?alt=media&token=5eaa070a-3a05-4421-a1b1-f9b1798e66f5" />
     <item>
       <title>Andromeda, 19.12.2023.</title>
       <enclosure url="https://api.hrt.hr/media/fa/11/20231219-andromeda-34794690-20231220080018.mp3" type="audio/mpeg" length="85928296" />
