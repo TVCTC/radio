@@ -10,6 +10,14 @@
     <googleplay:author>tvctc</googleplay:author>
     <googleplay:email>tomislav.vucetic@gmail.com</googleplay:email>
     <googleplay:image href="https://firebasestorage.googleapis.com/v0/b/rss-feeds-by-tvctc.appspot.com/o/images%2FAndromeda.jpg?alt=media&token=5eaa070a-3a05-4421-a1b1-f9b1798e66f5" />
+     <item>
+      <title>Andromeda 30.01.2024.</title>
+      <enclosure url="https://api.hrt.hr/media/29/20/20240130-andromeda-34924584-20240131075058.mp3" type="audio/mpeg" />
+      <link>https://radio.hrt.hr/slusaonica/andromeda?podcast=202312191047</link>
+      <guid isPermaLink="false">4rd4zjtnf2g57vvqffm8h58zca</guid>
+      <pubDate>Tue, 30 Jan 2024 19:00:00 +0000</pubDate>
+      <description>Andromeda je emisija koja više od dvadeset godina, utorkom, u našem radijskom prostoru educira javnost i podiže svijest o Svemiru i našem mjestu u njemu. Uz stručnog suradnika odgovara se na pitanja slušatelja, komentira vijesti iz astronomije, astrofizike i astronautike.</description>
+    </item>
     <item>
       <title>Andromeda, 19.12.2023.</title>
       <enclosure url="https://api.hrt.hr/media/fa/11/20231219-andromeda-34794690-20231220080018.mp3" type="audio/mpeg" length="85928296" />
