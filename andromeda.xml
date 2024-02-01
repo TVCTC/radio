@@ -7,7 +7,7 @@
     <copyright>Hrvatska radiotelevizija</copyright>
     <link>https://github.com/TVCTC/radio/raw/main/andromeda.xml</link>
     <lastBuildDate>Thu, 28 Dec 2023 09:50:41 +0000</lastBuildDate>
-    <atom:link href="https://script.google.com/macros/s/AKfycbwamD81CGWKZlfvKihuzqpW5gFfbmk1Af3LgQ7ST1o/dev" rel="self" type="application/rss+xml" />
+    <atom:link href="https://github.com/TVCTC/radio/raw/main/andromeda.xml" rel="self" type="application/rss+xml" />
     <googleplay:author>Drugi program Hrvatskoga radija</googleplay:author>
     <googleplay:email>tomislav.vucetic@gmail.com</googleplay:email>
     <googleplay:image href="https://apihrt.akamaized.net/media/2f/1d/andromeda1-1-20220127123006.webp" />
