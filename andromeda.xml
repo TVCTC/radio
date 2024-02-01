@@ -5,7 +5,7 @@
     <description>Vjerojatno ste svi čuli, a mnogi i slušali, legendarnu radio emisiju Andromeda, koja više od dva desetljeća ide na Drugom programu Hrvatskoga radija, svakoga utorka od 20:00 - 22:00 sata uz stručne suradnike Antu Radonića i Korada Korlevića, a pod budnom paskom Dubravke Družinec Ricijaš.</description>
     <language>hr-HR</language>
     <copyright>Hrvatska radiotelevizija</copyright>
-    <link>https://script.google.com/macros/s/AKfycbwamD81CGWKZlfvKihuzqpW5gFfbmk1Af3LgQ7ST1o/dev</link>
+    <link>https://github.com/TVCTC/radio/raw/main/andromeda.xml</link>
     <lastBuildDate>Thu, 28 Dec 2023 09:50:41 +0000</lastBuildDate>
     <atom:link href="https://script.google.com/macros/s/AKfycbwamD81CGWKZlfvKihuzqpW5gFfbmk1Af3LgQ7ST1o/dev" rel="self" type="application/rss+xml" />
     <googleplay:author>Drugi program Hrvatskoga radija</googleplay:author>
