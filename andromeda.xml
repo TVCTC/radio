@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0">
+    <title>Andromeda (from another dimension)</title>
+    <description>Vjerojatno ste svi čuli, a mnogi i slušali, legendarnu radio emisiju Andromeda, koja više od dva desetljeća ide na Drugom programu Hrvatskoga radija, svakoga utorka od 20:00 - 22:00 sata uz stručne suradnike Antu Radonića i Korada Korlevića, a pod budnom paskom Dubravke Družinec Ricijaš.</description>
+    <language>hr-HR</language>
+    <copyright>Hrvatska radiotelevizija</copyright>
+    <link>https://script.google.com/macros/s/AKfycbwamD81CGWKZlfvKihuzqpW5gFfbmk1Af3LgQ7ST1o/dev</link>
+    <lastBuildDate>Thu, 28 Dec 2023 09:50:41 +0000</lastBuildDate>
+    <atom:link href="https://script.google.com/macros/s/AKfycbwamD81CGWKZlfvKihuzqpW5gFfbmk1Af3LgQ7ST1o/dev" rel="self" type="application/rss+xml" />
+    <googleplay:author>Drugi program Hrvatskoga radija</googleplay:author>
+    <googleplay:email>tomislav.vucetic@gmail.com</googleplay:email>
+    <googleplay:image href="https://apihrt.akamaized.net/media/2f/1d/andromeda1-1-20220127123006.webp" />
+    <item>
+      <title>Andromeda, 19.12.2023.</title>
+      <enclosure url="https://api.hrt.hr/media/fa/11/20231219-andromeda-34794690-20231220080018.mp3" type="audio/mpeg" length="85928296" />
+      <link>https://radio.hrt.hr/slusaonica/andromeda?podcast=202312191047</link>
+      <guid isPermaLink="false">ebc45a11-1c56-4d99-88e3-ce70ce1a36dd</guid>
+      <pubDate>Tue, 19 Dec 2023 09:47:00 +0000</pubDate>
+      <description>Andromeda je emisija koja više od dvadeset godina, utorkom, u našem radijskom prostoru educira javnost i podiže svijest o Svemiru i našem mjestu u njemu. Uz stručnog suradnika odgovara se na pitanja slušatelja, komentira vijesti iz astronomije, astrofizike i astronautike.</description>
+    </item>
+  </channel>
+</rss>
+
