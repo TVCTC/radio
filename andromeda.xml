@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0">
-    <title>Andromeda (from another dimension)</title>
+    <title>ANDROMEDA (from another dimension)</title>
     <description>Vjerojatno ste svi čuli, a mnogi i slušali, legendarnu radio emisiju Andromeda, koja više od dva desetljeća ide na Drugom programu Hrvatskoga radija, svakoga utorka od 20:00 - 22:00 sata uz stručne suradnike Antu Radonića i Korada Korlevića, a pod budnom paskom Dubravke Družinec Ricijaš.</description>
     <language>hr-HR</language>
-    <copyright>Hrvatska radiotelevizija</copyright>
-    <link>https://github.com/TVCTC/radio/raw/main/andromeda.xml</link>
+    <link>https://radio.hrt.hr/slusaonica/andromeda</link>
     <lastBuildDate>Thu, 28 Dec 2023 09:50:41 +0000</lastBuildDate>
     <atom:link href="https://github.com/TVCTC/radio/raw/main/andromeda.xml" rel="self" type="application/rss+xml" />
-    <googleplay:author>Drugi program Hrvatskoga radija</googleplay:author>
+    <googleplay:author>tvctc</googleplay:author>
     <googleplay:email>tomislav.vucetic@gmail.com</googleplay:email>
     <googleplay:image href="https://apihrt.akamaized.net/media/2f/1d/andromeda1-1-20220127123006.webp" />
     <item>
