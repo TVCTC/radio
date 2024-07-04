@@ -93,6 +93,8 @@ http://c2.hostingcentar.com:8011/
 http://radio.novosti.hr:9300/
 #EXTINF:-1,Radio Dalmacija
 http://shoutcast.pondi.hr:8000/
+#EXTINF:-1,Radio Ritam Šibenik
+https://ec2s.crolive.com.hr:8455/stream
 #EXTINF:-1,Radio Vallis Aurea
 http://ec2s.crolive.com.hr:2260/stream
 #EXTINF:-1,LAGANINI FM POZEGA
