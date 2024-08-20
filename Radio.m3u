@@ -9,6 +9,8 @@
 #
 #EXTINF:-1,Radio 101
 http://live.radio101.hr:9531/
+#EXTINF:-1,Nacional Radio
+https://nnc1-bpmmc501.radioca.st/stream
 #EXTINF:-1,Top Radio
 https://c5.hostingcentar.com/streams/topradio
 #EXTINF:-1,Radio Tvornica
